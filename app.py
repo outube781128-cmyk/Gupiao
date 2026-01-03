@@ -13,7 +13,7 @@ if 'portfolio' not in st.session_state:
     st.session_state.portfolio = [
         {"ticker": "IONQ", "shares": 30.0, "cost": 45.498},
         {"ticker": "EOSE", "shares": 100.0, "cost": 11.747},
-        {"ticker": "ONDS", "shares": 10.0, "cost": 10.043}
+        {"ticker": "ONDS", "shares": 110.0, "cost": 10.043}
     ]
 
 # --- 3. 側邊欄：管理功能 ---
